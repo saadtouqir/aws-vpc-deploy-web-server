@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # AWS VPC and EC2 Web Server Deployment
 
@@ -134,3 +135,7 @@ Platform: AWS Academy
 Project: Build your VPC and Launch a Web Server
 Category: Cloud Computing and Networking
 
+=======
+# aws-vpc-ec2-web-server
+AWS VPC networking and EC2 web server deployment
+>>>>>>> e558ec267181b2ce11c8500ebfaa6ec15716bbb3
