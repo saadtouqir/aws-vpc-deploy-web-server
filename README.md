@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 # AWS VPC and EC2 Web Server Deployment
 
